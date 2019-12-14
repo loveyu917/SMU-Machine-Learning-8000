@@ -5,7 +5,9 @@
 For the final class paper, I investigate one of the topic from the course, which is Reinforcement Learning.
 This paper investigates the StarCraft II Learning Environment SC2LE and improves an existing reinforcement learning methods for StarCraft II mini game by implement epsilon-greedy strategy. Experimental results show that our agent could achieve almost the same performance as the one we investigated but ues less training time.
 
-[![Project](Screenshots/finalpaper.png)](https://drive.google.com/file/d/1aFX-ymbntirgQYWH1VSDiuhq4q6imHQ-/preview)
+Video: https://drive.google.com/drive/folders/1WAldx-tjhxpSG5h52BMWy4_av4QRt93o?usp=sharing
+
+[![Project](Screenshots/finalpaper.png)]
 
 
 ## Lab 4 - OpenCV and Camera
