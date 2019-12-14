@@ -1,38 +1,38 @@
 # CS8321: Neural Networks and Machine Learning
 ### Xingming Qu
 
+
+
+## Lab 1 - CNN Visualization
+In this lab you will implement the DeepDream architecture for a neural network.
+
+![Lab1 Screenshot](Screenshots/Lab1.png)
+
+
+## Lab 2 - Style Transfer
+In this lab you will implement a photo realistic style transfer algorithm, using the work of Li et al. in their universal style transfer paper. An implementation of training a decoder for different scales of VGG has already been implemented for you (https://github.com/8000net/universal-style-transfer-keras (Links to an external site.)). For photo realistic transfer, you will be implementing the smoothing constraint from Li et al. discussed in lecture, as well as adding un-pooling layers to the implementation. 
+
+
+![Lab2 Screenshot](Screenshots/Lab2.png)
+
+
+## Lab 3 - Multi-modal and Multi-task
+In this lab, you will implement a multi-task network (possibly multi-modal) that classifies interactions between compounds and ligands in the ChEMBL database (https://www.ebi.ac.uk/chembl/ (Links to an external site.)). The objective is to classify which ligands bind to which targets. Each target will be a separate task working from a  shared ligand representation. 
+
+
+
+## Lab 4 - GAN Example Fixing
+In this lab you will improve upon the methods employed by Chollet in his example from the book: https://github.com/fchollet/deep-learning-with-python-notebooks/blob/master/8.5-introduction-to-gans.ipynb
+
+
+![Lab4 Screenshot](Screenshots/Lab4.png)
+
+
+
 ## Final Project - An investigation of StarCraft II Learning Environment
 For the final class paper, I investigate one of the topic from the course, which is Reinforcement Learning.
 This paper investigates the StarCraft II Learning Environment SC2LE and improves an existing reinforcement learning methods for StarCraft II mini game by implement epsilon-greedy strategy. Experimental results show that our agent could achieve almost the same performance as the one we investigated but ues less training time.
 
 Video: https://drive.google.com/drive/folders/1WAldx-tjhxpSG5h52BMWy4_av4QRt93o?usp=sharing
 
-[![Project](Screenshots/finalpaper.png)]
-
-
-## Lab 4 - OpenCV and Camera
-This lab is a little weird - we made use of the iPhone's cameras to do some fun things. The first half of the app is able to detect a face, determine which eyes someone has open, and even tell if the person is smiling! The other part of the app uses the phone's camera to measure heart rate. Just put your finger over the rear camera, and your HR is graphed live on the screen.
-
-
-![Lab4 Screenshot](Screenshots/Lab%204.png)
-
-
-## Lab 3 - Core Motion and SpriteKit
-This app tracks your walking in the background and rewards you with a game! If you pass your step goal for the day, you get to play Asteroid Dodge: a game where you guide a spaceship through an asteroid field.
-
-
-![Lab3 Screenshot](Screenshots/Lab%203.png)
-
-
-## Lab 2 - Audio Filtering, the FFT, and Doppler Shifts
-In this lab, we use a fast Fourier transform to calculate the frequencies of highest magnitude being picked up by the iPhone's microphone. We also make use of Doppler shifts to determine if someone is moving their hand towards or away from the microphone. 
-
-
-![Lab2 Screenshot](Screenshots/Lab%202.png)
-
-
-## Lab 1 - BuildMe
-This app helps users track their workout progress.
-
-
-![Lab1 Screenshot](Screenshots/Lab%201.png)
+![Project](Screenshots/finalpaper.png)
