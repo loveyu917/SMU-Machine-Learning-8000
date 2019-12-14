@@ -1,6 +1,7 @@
 # CS8321: Neural Networks and Machine Learning
 ### Xingming Qu
 
+All the code are provided as Rendered HTML.
 
 
 ## Lab 1 - CNN Visualization
